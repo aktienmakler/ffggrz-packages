@@ -1,0 +1,10 @@
+config server
+        option key 'FOOOO'
+        option cert '/tmp/server.crt'
+
+config server
+        option key 'BAR'
+        option cert '/tmp/server2.crt'
+
+config client
+        option use_provisioning '0'
