@@ -4,3 +4,31 @@ msgstr "Content-Type: text/plain; charset=UTF-8"
 msgid ""
 "Activate reporting"
 msgstr ""
+
+msgid ""
+"Report frequency"
+msgstr ""
+
+msgid ""
+"Chose frequency"
+msgstr ""
+
+msgid ""
+"daily"
+msgstr ""
+
+msgid ""
+"weekly"
+msgstr ""
+
+msgid ""
+"monthly"
+msgstr ""
+
+msgid ""
+"Report error"
+msgstr ""
+
+msgid ""
+"Report recovery"
+msgstr ""
