@@ -13,3 +13,31 @@ msgstr ""
 msgid ""
 "Activate reporting"
 msgstr "Reports erhalten"
+
+msgid ""
+"Report frequency"
+msgstr "Benachrichtigungshäufigkeit"
+
+msgid ""
+"Chose frequency"
+msgstr "Bitte Häufigkeit wählen"
+
+msgid ""
+"daily"
+msgstr "täglich"
+
+msgid ""
+"weekly"
+msgstr "wöchentlich"
+
+msgid ""
+"monthly"
+msgstr "monatlich"
+
+msgid ""
+"Report error"
+msgstr "Fehlernachricht"
+
+msgid ""
+"Report recovery"
+msgstr "Wiederherstellungsnachricht"
