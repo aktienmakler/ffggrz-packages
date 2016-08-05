@@ -1,0 +1,5 @@
+config report
+	option use_reporting '1'
+	option report_frequency 'm'
+	option report_error '1'
+	option report_recovery '0'
